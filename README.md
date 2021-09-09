@@ -33,3 +33,4 @@
 # CONCLUSIONES
 
 # BIBLIOGRAFIA 
+Robbins, A., & Miller, W. (2008). Análisis de circuitos. Estados Unidos: Cengage Learning.
