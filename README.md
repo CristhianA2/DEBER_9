@@ -75,8 +75,13 @@
 
 
 # VIDEO
-
+https://youtu.be/GnWRIAkrj2M
 # CONCLUSIONES
+-Los transformadores tienen muchas aplicaciones como sistemas de potencia electrica para aumentar el voltaje en transmisiones.
+
+-El campo magnetico producido por una corriente en una bobina provoca un voltaje en la segunda bobina devanada en el mismo nucleo, los transformadores usan este efecto.
+
+-Podemos ver que los sistemas trifasicos difieren de los de una fase en donde se usan un conjunto de 3 voltajes sinusoidales de ca en vez de uno.
 
 # BIBLIOGRAFIA 
 Robbins, A., & Miller, W. (2008). Análisis de circuitos. Estados Unidos: Cengage Learning.
